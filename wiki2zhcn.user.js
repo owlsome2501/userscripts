@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         wiki2zhcn
 // @namespace    owlsome2501
-// @version      0.1
+// @version      0.1.2
 // @description  redirect to zh-cn wikipedia
 // @author       owlsome2501
 // @match        https://zh.wikipedia.org/wiki/*
 // @match        https://zh.wikipedia.org/zh-hans/*
+// @match        https://zh.wikipedia.org/zh/*
 // @match        https://zh.m.wikipedia.org/*
 // @grant        none
 // @run-at       document-start
